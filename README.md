@@ -17,6 +17,8 @@ The program will output an `output.json` file at root. The file structure will b
 ]
 
 # Commands
-Run `npm run exec` to just run the code \n
-Run `npm run start:dev` to watch live \n
-Run `npm run start` to compile and run \n
+Run `npm run exec` to just run the code
+
+Run `npm run start:dev` to watch live
+
+Run `npm run start` to compile and run
